@@ -76,9 +76,8 @@ sudo nmcli connection up "Wired connection 1"
 
 ## My Experience
 
-The biggest problem I had during this lab was that the Kali VM had no Internet access.
-
-TODO: write 1 or 2 sentences about what you checked and what finally fixed it.
+The biggest problem I had during this lab was that the Kali VM had no Internet access.i try to enhance 
+and make no other VM on the same network uses 10.0.0.2.
 
 ## Credits
 
